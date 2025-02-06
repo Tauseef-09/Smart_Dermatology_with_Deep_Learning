@@ -47,4 +47,4 @@ Features
 
 •	Power BI is used to analyze model accuracy, confusion matrices, and learning curves.
 
-![image]([https://github.com/user-attachments/assets/ff2b6e48-f373-45df-9268-7f5d5053c183](https://github.com/Tauseef-09/Smart_Dermatology_with_Deep_Learning/blob/988d3200c24ce7f3216583f4e08d17bd737b82cb/Skin_Disease_Image.jpg))
+![image](Skin_Disease_Image.jpg)
